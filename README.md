@@ -361,6 +361,8 @@ Generate Submission
    ↓
 Validate Submission
 ```
+<img width="819" height="554" alt="image" src="https://github.com/user-attachments/assets/84263b30-8418-4183-bfbf-f8778eb56764" />
+
 
 The search component was improved from a basic BLS search toward a more refined **coarse-to-fine candidate search**, with the goal of improving both detection and characterization.
 
