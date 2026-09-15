@@ -423,13 +423,32 @@ The current submission pipeline successfully generates a valid competition submi
 87 unique confidence values
 ```
 
+
+---
+
+## 🚀 Project Status
+
+Astrobit has successfully completed an end-to-end
+exoplanet transit detection pipeline and generated a
+competition-ready submission for all **87 target stars**.
+
+| Result | Value |
+|---|---:|
+| Target Stars | **87** |
+| Transit Candidates | **43** |
+| Non-Detections | **44** |
+| Unique Confidence Scores | **87** |
+| Submission Validation | **PASS** |
+| Submission Status | **Ready** |
+
 The generated submission file is:
 
 ```text
-submission_teamstark.csv
+submission_astrpbit.csv
 ```
 
 ---
+
 
 ## 👥 Team
 
